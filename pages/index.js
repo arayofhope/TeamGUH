@@ -18,10 +18,10 @@ export default function Home() {
 
           <div id="navbarExampleTransparentExample" class="navbar-menu">
             <div class="navbar-start">
-              <a class="navbar-item" href="https://htmlpreview.github.io/?https://raw.githubusercontent.com/arayofhope/TeamGUH/main/src/index.html?token=AEMZHDDYBJQU25NT3A2RHQLBWZTM2">
+              <a class="navbar-item" href="/">
                 Home
               </a>
-              <a class="navbar-item" href="https://htmlpreview.github.io/?https://raw.githubusercontent.com/arayofhope/TeamGUH/main/src/index.html?token=AEMZHDDYBJQU25NT3A2RHQLBWZTM2">
+              <a class="navbar-item" href="players">
                 Players
               </a>
               <a class="navbar-item" href="https://htmlpreview.github.io/?https://raw.githubusercontent.com/arayofhope/TeamGUH/main/src/index.html?token=AEMZHDDYBJQU25NT3A2RHQLBWZTM2">
@@ -48,7 +48,7 @@ export default function Home() {
       <section class="section">
         <div class="container has-text-centered">
           <h2 class="title">Team GUH</h2>
-          <p>One of the greatest pokemon TCG teams throughout California. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut
+          <p>One of the GUH-reatest pokemon TCG teams in California. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut
             aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est
             laborum consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
         </div>
